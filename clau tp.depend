@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734266055 source:c:\users\asus\desktop\clau tp\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+
